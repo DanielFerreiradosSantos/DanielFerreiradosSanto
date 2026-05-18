@@ -17,3 +17,11 @@ Estudante de desenvolvimento de software focado em:
 - Git
 - GitHub
 - Godot
+## Projetos em destaque
+- Engine 2D experimental
+- Sistema de login Python
+- Ferramenta de automação
+
+## Contato
+- LinkedIn
+- Email
