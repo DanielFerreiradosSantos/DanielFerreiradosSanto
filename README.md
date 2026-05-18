@@ -24,4 +24,4 @@ Estudante de desenvolvimento de software focado em:
 
 ## Contato
 - LinkedIn
-- Email
+- Email: daniel.inazumaeleven@gmail.com
